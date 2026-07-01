@@ -6,8 +6,7 @@
 
 ## Definición del proyecto:
 
-El reto consta de cuatro pantallas, en ellas podremos registrarnos, logearnos e incluso validar la cuenta.1
-Este proyecto ha sido creado en menos de una semana, siguiendo buenas prácticas y todas las recomendaciones de Google.
+La app consta de cuatro pantallas, en ellas podremos registrarnos, logearnos e incluso validar la cuenta.Este proyecto ha sido creado en menos de una semana, siguiendo buenas prácticas y todas las recomendaciones de Google.
 
 ## Características del proyecto:
 
