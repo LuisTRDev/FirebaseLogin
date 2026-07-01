@@ -1,4 +1,4 @@
-# Login Nuwe - [Reto Semana 1](https://nuwe.io/challenge/reto-mobile-individual-semana-1)
+# Login Nuwe 
 
 <p align="center">
 <img align="center" width="300" alt="portfolio_view" src="./docs/logo.png">
@@ -74,10 +74,3 @@ También hay una animación implementada con *lottie*.
 - Pero... ¿Hay vistas similares, no?
   - Sí, es por ello que las vistas que son iguales se han abstraido para reutilizarlas en todas partes.
   
-## COLABORA.
-
-Este proyecto es totalmente GRATUITO por lo que puedes aportar tu grano de arena de múltiples formas.
-
-- Dale a FAV al proyecto (Star)
-- Sígueme en mis [redes sociales](https://aristi.dev)
-- Nomíname a [GITHUB STAR](https://stars.github.com/nominate/)
